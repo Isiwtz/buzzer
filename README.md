@@ -6,7 +6,7 @@
 + Ce petit site web à pour objectif de fournir à un smartphone trois buzzers et un compteur de score
 + Il est responsive
 + Il a été lancé en octobre 2020
-+ La dernière modification du projet date du 17/10/2020
++ La dernière modification du projet date du 27/12/2020
 
 ## Langages utilisés
 
@@ -23,6 +23,6 @@ Il suffit de cloner le répertoire dans un hébergeur de site (github par exempl
 
 + Rien du tout
 
-## Screenshots 
+## Screenshot
 
 ![Exemple](https://i.imgur.com/jYBYO7B.png)
