@@ -1,27 +1,24 @@
-# Bienvenue sur le site Buzzer !
+# Welcome to the buzzer site !
 
 
-## Quelques informations importantes
+## Some important information
 
-+ Ce petit site web à pour objectif de fournir à un smartphone trois buzzers et un compteur de score
-+ Il est responsive
-+ Il a été lancé en octobre 2020
-+ La dernière modification du projet date du 27/12/2020
++ The purpose of that small website is to provide a tool to display three buzzers and a score counter
++ It is responsive
++ It was introduced in october 2020
++ The last modification dates from 12/27/2020
 
-## Langages utilisés
+## Used languages
 
 + JavaScript
 + Html
 + Css
 
-## Comment l'utiliser ?
+## How to used it ?
 
-Il suffit de cloner le répertoire dans un hébergeur de site (github par exemple ou codepen.io, nécessite quelques modifications) puis de le lancer sur smartphone
+You just need to clone the directory in a site hosting (github for example or codepen.io but requires some modifications)
 
 
-## A venir
-
-+ Quelques modifications peuvent être apporter pour améliorer l'ergonomie du site
 
 ## Screenshot
 
