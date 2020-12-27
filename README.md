@@ -21,7 +21,7 @@ Il suffit de cloner le répertoire dans un hébergeur de site (github par exempl
 
 ## A venir
 
-+ Rien du tout
++ Quelques modifications peuvent être apporter pour améliorer l'ergonomie du site
 
 ## Screenshot
 
