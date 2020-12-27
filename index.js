@@ -5,9 +5,9 @@ var count = [0,0,0];
 
 // The code below can be replaced with a for, by changing the call string of the function whoHaveBuzz with the corresponding numbers and in HTML by changing the text of the first three buttons with the same numbers, don't forget to change the name in the scoreboard
 
-document.getElementById("1").addEventListener("click", function(){whoHaveBuzz("Mamie")});
-document.getElementById("2").addEventListener("click", function() {whoHaveBuzz("Florian")});
-document.getElementById("3").addEventListener("click",function(){whoHaveBuzz("Maman")});
+document.getElementById("1").addEventListener("click", function(){whoHaveBuzz("Player 1")});
+document.getElementById("2").addEventListener("click", function() {whoHaveBuzz("Player 2")});
+document.getElementById("3").addEventListener("click",function(){whoHaveBuzz("Player 3")});
 document.getElementById("resetButton").addEventListener("click", function(){document.getElementById("buzzResult").innerHTML=""});
 
 for (let i = 1; i <= 3; i++) 
