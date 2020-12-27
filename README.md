@@ -25,4 +25,4 @@ Il suffit de cloner le répertoire dans un hébergeur de site (github par exempl
 
 ## Screenshots 
 
-![Exemple](https://imgur.com/a/ryMF2Q6)
+![Exemple](https://i.imgur.com/jYBYO7B.png)
