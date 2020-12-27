@@ -1,10 +1,10 @@
-# Bienvenue sur DailyActu Bot !
+# Bienvenue sur le site Buzzer !
 
-![DailyActu](https://pbs.twimg.com/profile_images/1341505455865143298/7sIp15iv_400x400.jpg)
 
 ## Quelques informations importantes
 
-+ Ce petit site web à pour objectif de transformer un smartphone en buzzer
++ Ce petit site web à pour objectif de fournir à un smartphone trois buzzers et un compteur de score
++ Il est responsive
 + Il a été lancé en octobre 2020
 + La dernière modification du projet date du 17/10/2020
 
@@ -25,4 +25,4 @@ Il suffit de cloner le répertoire dans un hébergeur de site (github par exempl
 
 ## Screenshots 
 
-![Exemple de tweet](https://i.imgur.com/nnbGEel.png)
+![Exemple](https://imgur.com/a/ryMF2Q6)
