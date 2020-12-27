@@ -14,7 +14,7 @@
 + Html
 + Css
 
-## How to used it ?
+## How to use it ?
 
 You just need to clone the directory in a site hosting (github for example or codepen.io but requires some modifications)
 
