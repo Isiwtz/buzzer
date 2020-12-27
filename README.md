@@ -3,7 +3,7 @@
 
 ## Some important information
 
-+ The purpose of that small website is to provide a tool to display three buzzers and a score counter
++ The purpose of that small website is to provide a tool to display three buzzers and a score counter on a phone
 + It is responsive
 + It was introduced in october 2020
 + The last modification dates from 12/27/2020
